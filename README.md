@@ -1,0 +1,1 @@
+# QuickAdminPanel Advance Laravel Breeze
